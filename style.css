@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    font-family: 'Lobster Two', cursive;
+    font-size: 50px;
+    color: purple;
+    
+}
+
+h2{
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    color: purple;
+}
+
+.line{
+    height: 5px;
+    background-color: purple;
+    margin: 8px auto;
+    width: 50px;
+}
+
+#mycarousel img{
+    height: 500px;
+}
+
+#banner{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+
+#first img{
+    vertical-align: middle;
+    width: 25%;
+    height: auto;
+}
+
+#second img{
+    width: 33.33%;
+    height: auto;
+}
+
